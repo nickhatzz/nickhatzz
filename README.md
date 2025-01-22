@@ -64,8 +64,11 @@
 <!-- FEATURES PROJECTS -->
 <h1>Check out some of my work!</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickhatzz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div id="stats">
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickhatzz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div id="readmecards">
 
-<ul>
-  <li><a href="https://github.com/nickhatzz/lipu-lipu">lipu lipu</a>, a Toki Pona learning resource for iOS created in 100% SwiftUI</li>
-</ul>
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=lipu-lipu&theme=tokyonight&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
