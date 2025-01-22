@@ -65,10 +65,10 @@
 <h1>Check out some of my work!</h1>
 
 <div id="stats">
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickhatzz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickhatzz&layout=compact&theme=tokyonight"/>
 </div>
 <div id="readmecards">
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=lipu-lipu&theme=tokyonight&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/nickhatzz/lipu-lipu">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=lipu-lipu&theme=tokyonight&show_owner=true"/>
+  </a>
 </div>
