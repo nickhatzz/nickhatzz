@@ -67,8 +67,15 @@
 <div id="stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickhatzz&layout=compact&theme=tokyonight"/>
 </div>
+<br>
 <div id="readmecards">
   <a href="https://github.com/nickhatzz/lipu-lipu">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=lipu-lipu&theme=tokyonight&show_owner=true"/>
+  </a>
+ <a href="https://github.com/nickhatzz/Wordel">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=Wordel&theme=tokyonight&show_owner=true"/>
+  </a>
+ <a href="https://github.com/nickhatzz/RockPaperScissors">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=RockPaperScissors&theme=tokyonight&show_owner=true"/>
   </a>
 </div>
