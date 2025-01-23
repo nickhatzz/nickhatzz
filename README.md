@@ -65,7 +65,7 @@
 <h1>Check out some of my work!</h1>
 
 <div id="stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickhatzz&layout=compact&theme=tokyonight"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickhatzz&layout=donut&theme=tokyonight"/>
 </div>
 <br>
 <div id="readmecards">
