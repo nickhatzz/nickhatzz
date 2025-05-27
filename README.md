@@ -34,11 +34,11 @@
 <p>Please feel free to contact me with any questions! :dizzy:</p>
 <div>
   <ul>
-    <li>I am a senior at Sylvania Northview Highschool and am currently 17 years old. 🌱</li>
+    <li>I graduated from Sylvania Northview High School this Spring and am currently 17 years old. 🌱</li>
     <li>In the fall, I will be attending Butler University in Indianapolis!</li>
     <li>I have a pet cat named Sebastian. 🐈‍⬛ </li>
     <li>Some of my other hobbies include language learning/linguistics, listening to music, gaming, and crochet.</li>
-    <li>Some of my favorite artists are Mars Argo, Mitski, and Fiona Apple. :headphones:</li>
+    <li>Some of my favorite artists are Mars Argo, Mitski, and Ethel Cain. :headphones:</li>
   </ul>
   <img src="https://github.com/user-attachments/assets/a9d493df-35a6-44bb-8d83-9830c870e569" width=250>
   <img src="https://github.com/user-attachments/assets/84a054c6-906b-41fe-8f6a-8668386128ea" width=250>
@@ -57,6 +57,11 @@
 <p>Some of the programs I have experience in are:</p>
 <ul>
   <li>Xcode</li>
+ <ul>
+  <li>SwiftUI</li>
+  <li>UIKit</li>
+  <li>SpriteKit</li>
+ </ul>
   <li>Android Studio</li>
   <li>Apache NetBeans</li>
 </ul>
@@ -71,6 +76,9 @@
 <div id="readmecards">
   <a href="https://github.com/nickhatzz/lipu-lipu">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=lipu-lipu&theme=tokyonight&show_owner=true"/>
+  </a>
+ <a href="https://github.com/nickhatzz/Bauble2d">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=Bauble2d&theme=tokyonight&show_owner=true"/>
   </a>
  <a href="https://github.com/nickhatzz/Wordel">
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=Wordel&theme=tokyonight&show_owner=true"/>
