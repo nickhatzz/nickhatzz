@@ -34,7 +34,7 @@
 <p>Please feel free to contact me with any questions! :dizzy:</p>
 <div>
   <ul>
-    <li>I graduated from Sylvania Northview High School this Spring and am currently 17 years old. 🌱</li>
+    <li>I graduated from Sylvania Northview High School this Spring and am currently 18 years old. 🌱</li>
     <li>In the fall, I will be attending Butler University in Indianapolis!</li>
     <li>I have a pet cat named Sebastian. 🐈‍⬛ </li>
     <li>Some of my other hobbies include language learning/linguistics, listening to music, gaming, and crochet.</li>
