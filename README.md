@@ -73,22 +73,3 @@
 
 <!-- FEATURES PROJECTS -->
 <h1>Check out some of my work!</h1>
-
-<div id="stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickhatzz&layout=donut&theme=tokyonight"/>
-</div>
-<br>
-<div id="readmecards">
-  <a href="https://github.com/nickhatzz/lipu-lipu">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=lipu-lipu&theme=tokyonight&show_owner=true"/>
-  </a>
- <a href="https://github.com/nickhatzz/Bauble2d">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=Bauble2d&theme=tokyonight&show_owner=true"/>
-  </a>
- <a href="https://github.com/nickhatzz/Wordel">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=Wordel&theme=tokyonight&show_owner=true"/>
-  </a>
- <a href="https://github.com/nickhatzz/RockPaperScissors">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhatzz&repo=RockPaperScissors&theme=tokyonight&show_owner=true"/>
-  </a>
-</div>
