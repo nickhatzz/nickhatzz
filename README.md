@@ -34,10 +34,10 @@
 <p>Please feel free to contact me with any questions! :dizzy:</p>
 <div>
   <ul>
-    <li>I am an 18 year old freshman at Butler University in Indianapolis. 🌱</li>
+    <li>I am a 19 year old sophomore at Butler University in Indianapolis. 🌱</li>
     <li>I have a pet cat named Sebastian. 🐈‍⬛ </li>
     <li>Some of my other hobbies include language learning/linguistics, listening to music, trying my hand at FL Studio, gaming, and crochet.</li>
-    <li>Some of my favorite artists are Mars Argo, Magdalena Bay, Ethel Cain, and Charli xcx. :headphones:</li>
+    <li>Some of my favorite artists are Underscores, Magdalena Bay, Jane Remover, and Charli xcx. :headphones:</li>
   </ul>
   <img src="https://github.com/user-attachments/assets/a9d493df-35a6-44bb-8d83-9830c870e569" width=250>
   <img src="https://github.com/user-attachments/assets/84a054c6-906b-41fe-8f6a-8668386128ea" width=250>
