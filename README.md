@@ -71,5 +71,7 @@
   <li>Apache NetBeans</li>
 </ul>
 
+<b>All my code is 100% human generated! No LLMs, just my own brain and Stack Overflow.</b>
+
 <!-- FEATURES PROJECTS -->
 <h1>Check out some of my work!</h1>
